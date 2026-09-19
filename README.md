@@ -168,6 +168,9 @@ Confidence:
 GitHub:
 https://github.com/SATY8542
 
+LinkedIn: 
+https://www.linkedin.com/in/satyendra-singh-858237357/
+
 ---
 
 ## 📄 License
